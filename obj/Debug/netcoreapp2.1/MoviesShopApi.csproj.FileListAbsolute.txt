@@ -1,0 +1,14 @@
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.RazorAssemblyInfo.cache
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.RazorAssemblyInfo.cs
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.AssemblyInfoInputs.cache
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.AssemblyInfo.cs
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\bin\Debug\netcoreapp2.1\MoviesShopApi.deps.json
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\bin\Debug\netcoreapp2.1\MoviesShopApi.runtimeconfig.json
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\bin\Debug\netcoreapp2.1\MoviesShopApi.runtimeconfig.dev.json
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\bin\Debug\netcoreapp2.1\MoviesShopApi.dll
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\bin\Debug\netcoreapp2.1\MoviesShopApi.pdb
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.RazorTargetAssemblyInfo.cache
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.dll
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.pdb
+C:\Users\Kamil\source\repos\Movies\MoviesShop-Api\obj\Debug\netcoreapp2.1\MoviesShopApi.csprojAssemblyReference.cache
